@@ -1,8 +1,8 @@
 # workflows4s
 
-This repository contains an experiment to provide a bew way for achieveing durable execution in Scala.
+This repository contains an experiment to provide a new way for achieveing durable execution in Scala.
 
-It tries to merge Temporal's execution model with native event-sourcing while removing the most of the magic from the
+It tries to merge Temporal's execution model with native event-sourcing while removing most of the magic from the
 solution.
 
 See the [Example](workflow4s-example/src/main/scala/workflow4s/example) to see the end result.
